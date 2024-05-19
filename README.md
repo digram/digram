@@ -1,30 +1,29 @@
 #### Practical experience
-- System Design
-- Application Architecture
-- Server Configuration and Management
-- Proficient in Functional and Object-Oriented Programming
+- Application architecture
+- Server configuration and management
+- Functional and Object-oriented programming
 - Amazon Web Services and Google Cloud Platform
 
 #### Developed products for
-- E-Commerce
-- Financial Markets
-- Learning & Education
-- Digital Marketplaces
+- E-commerce
+- Financial markets
+- Learning & education
+- Digital marketplaces
 
 #### Current activities
 - Building `Bukua Platform`, an EdTech startup connecting all secondary schools in Kenya.
-- Learning entrepreneurship in Software Development.
+- Learning entrepreneurship in Software development.
 - Open to collaboration on the creation of digital marketplace tools.
 
 #### Topics of interest
-I am currently fascinated by GraphQL, ElasticSearch, Caching, Laravel, NextJS, Application Optimization, Database Optimization, Entrepreneurship, Machine Learning, Server Security, and Startups.
+I am currently fascinated by GraphQL, ElasticSearch, caching, Laravel, NextJS, application optimization, database optimization, entrepreneurship, machine learning, server security, and startups.
 
 #### Skill Set
 
 ##### General stack
-- Application Architecture: Monolith, Modular.
-- Server: Linux, Shell Scripting.
-- Version Control: GitHub, Bitbucket, GitLab.
+- Application architecture: monolith, modular.
+- Server: Linux, shell scripting.
+- Version control: GitHub, Bitbucket, GitLab.
 - DevOPS: Docker, Google Cloud Platform, Amazon Web Services.
 - APIs: GraphQL, REST.
 
