@@ -27,14 +27,14 @@ I am currently fascinated by GraphQL, ElasticSearch, Caching, Laravel, NextJS, A
 #### Skill Set
 
 ##### General stack
-- Application Architecture: Monolith and Modular.
-- Server: Linux and Shell Scripting.
-- Version Control: GitHub, Bitbucket, and GitLab.
-- DevOPS: Docker, Google Cloud Platform, and Amazon Web Services.
+- Application Architecture: Monolith, Modular.
+- Server: Linux, Shell Scripting.
+- Version Control: GitHub, Bitbucket, GitLab.
+- DevOPS: Docker, Google Cloud Platform, Amazon Web Services.
 - APIs: GraphQL, REST.
 
 ##### Front-end stack
-- React/NextJS, VueJS/NuxtJS, Javascript, HTML, CSS, Tailwind CSS, Typescript, and Redux.
+- React/NextJS, VueJS/NuxtJS, Javascript, HTML, CSS, Tailwind CSS, Typescript, Redux Toolkit.
 
 ##### Back-end stack
 - Languages: PHP/Laravel, Python, NodeJS.
