@@ -1,7 +1,7 @@
 #### Practical experience
+- Functional and object-oriented programming
 - Application architecture
 - Server configuration and management
-- Functional and Object-oriented programming
 - Amazon Web Services and Google Cloud Platform
 
 #### Developed products for
