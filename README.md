@@ -12,7 +12,7 @@
 
 #### Current activities
 - Building `Bukua Platform`, an EdTech startup connecting all secondary schools in Kenya.
-- Learning entrepreneurship in Software development.
+- Learning entrepreneurship in software development.
 - Open to collaboration on the creation of digital marketplace tools.
 
 #### Topics of interest
