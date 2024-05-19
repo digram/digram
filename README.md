@@ -1,8 +1,3 @@
-### Introduction
-I am a seasoned Software Engineer with 7 years of experience based in Nairobi, Kenya. My expertise lies in `System Design`, `Application Architecture`, `Programming` and `Server Management`. I specialize in developing robust solutions for diverse sectors, including `E-Commerce`, `Financial Markets`, `Digital Marketplaces`, and `Education`. I am deeply passionate about creating user-centric systems that leave a lasting impression.
-
-I hold a BSc in Computer Science from [Maseno University](https://sci.maseno.ac.ke/home-computer-science), Kenya.
-
 #### Practical experience
 - System Design
 - Application Architecture
@@ -47,32 +42,6 @@ I am currently fascinated by GraphQL, ElasticSearch, Caching, Laravel, NextJS, A
 - A dedicated fan of Casio digital watches.
 - Early morning coder.
 - Thrives on attention to detail.
-
-#### Exciting projects
-
-##### [Nairobi Securities Exchange](https://www.nse.co.ke/dataservices/) - Market Data Implementation (2018-2019)
-- Led the project at [Deveint](https://deveint.com/en/about/), achieving real-time and historical market data relay to thousands of users.
-- Implemented the [`Millennium Exchange Protocol`](https://en.wikipedia.org/wiki/Millennium_Exchange) and deployed [`IPsec`](https://en.wikipedia.org/wiki/IPsec) for secure server communication.
-- Developed API using REST and designed dashboards using VueJS and NuxtJS.
-
-##### [Botswana Stock Exchange](https://www.bse.co.bw/market-summary/) - Market Data Implementation (2019-2020)
-- Led the project at [Deveint](https://deveint.com/en/about/), achieving real-time and historical market data relay.
-- Deployed [`IPsec`](https://en.wikipedia.org/wiki/IPsec) for secure server communication, developed API using REST, and integrated card payments.
-- Designed dashboards using VueJS and NuxtJS.
-
-##### [Topserve Limited](https://www.topserveltd.co.ke/) - E-Commerce (2022-2023)
-- Developed RESTful APIs and front-end using React and NextJS.
-- Conducted search engine optimization and deployed applications using Docker.
-
-##### [Bukua Platform](https://www.bukuaplatform.com/) - Education & Learning (2023 - Present)
-- Developing GraphQL APIs and front-end using React and NextJS.
-- Conducting search engine optimization and deploying applications using Docker.
-- Implementing message queuing for increased availability.
-
-##### [Graphics Editing Tool](https://codecanyon.net/category/javascript) - Digital Marketplaces (2023 - Present)
-- Developed a web-based graphics editing tool using React, Redux, and Tailwind CSS.
-- Followed a modular architecture with multilingual support.
-- Integrated AI-generated imagery.
 
 #### How to reach me
 Feel free to connect via [E-Mail](mailto:dennismayeku@gmail.com).
