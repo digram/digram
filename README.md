@@ -16,7 +16,7 @@
 - Open to collaboration on the creation of digital marketplace tools.
 
 #### Topics of interest
-I am currently fascinated by GraphQL, ElasticSearch, caching, Laravel, NextJS, application optimization, database optimization, entrepreneurship, machine learning, server security, and startups.
+I am currently fascinated by GraphQL, caching, NextJS, ElasticSearch, application optimization, entrepreneurship, server security, and startups.
 
 #### Skill set
 
