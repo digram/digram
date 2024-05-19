@@ -18,7 +18,7 @@
 #### Topics of interest
 I am currently fascinated by GraphQL, ElasticSearch, caching, Laravel, NextJS, application optimization, database optimization, entrepreneurship, machine learning, server security, and startups.
 
-#### Skill Set
+#### Skill set
 
 ##### General stack
 - Application architecture: monolith, modular.
