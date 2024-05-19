@@ -3,50 +3,52 @@ I am a seasoned Software Engineer with 7 years of experience based in Nairobi, K
 
 I hold a BSc in Computer Science from [Maseno University](https://sci.maseno.ac.ke/home-computer-science), Kenya.
 
-#### Practical Experience
+#### Practical experience
 - System Design
 - Application Architecture
 - Server Configuration and Management
 - Proficient in Functional and Object-Oriented Programming
 - Amazon Web Services and Google Cloud Platform
 
-#### Developed Products For
+#### Developed products for
 - E-Commerce
 - Financial Markets
 - Learning & Education
 - Digital Marketplaces
 
-#### Current Activities
+#### Current activities
 - Building `Bukua Platform`, an EdTech startup connecting all secondary schools in Kenya.
 - Learning entrepreneurship in Software Development.
 - Open to collaboration on the creation of digital marketplace tools.
 
-#### Topics of Interest
+#### Topics of interest
 I am currently fascinated by GraphQL, ElasticSearch, Caching, Laravel, NextJS, Application Optimization, Database Optimization, Entrepreneurship, Machine Learning, Server Security, and Startups.
 
 #### Skill Set
 
-##### Mobile
-- Flutter
-
-##### Frontend
-- React, NextJS, VueJS, Javascript, HTML, CSS, Tailwind CSS, Typescript, and Redux.
-
-##### Backend
-- Languages: PHP/Laravel, Python, NodeJS.
-- Storage: MySQL, MariaDB, PostgreSQL, Elasticsearch, Redis.
+##### General
 - Application Architecture: Monolith and Modular.
 - Server: Linux and Shell Scripting.
 - Version Control: GitHub, Bitbucket, and GitLab.
 - DevOPS: Docker, Google Cloud Platform, and Amazon Web Services.
 - APIs: GraphQL, REST.
 
-#### Fun Facts
+##### Front-end stack
+- React/NextJS, VueJS/NuxtJS, Javascript, HTML, CSS, Tailwind CSS, Typescript, and Redux.
+
+##### Back-end stack
+- Languages: PHP/Laravel, Python, NodeJS.
+- Storage: MySQL, MariaDB, PostgreSQL, Elasticsearch, Redis.
+
+##### Mobile
+- Flutter
+
+#### Fun facts
 - A dedicated fan of Casio digital watches.
 - Early morning coder.
 - Thrives on attention to detail.
 
-#### Exciting Projects
+#### Exciting projects
 
 ##### [Nairobi Securities Exchange](https://www.nse.co.ke/dataservices/) - Market Data Implementation (2018-2019)
 - Led the project at [Deveint](https://deveint.com/en/about/), achieving real-time and historical market data relay to thousands of users.
@@ -72,5 +74,5 @@ I am currently fascinated by GraphQL, ElasticSearch, Caching, Laravel, NextJS, A
 - Followed a modular architecture with multilingual support.
 - Integrated AI-generated imagery.
 
-#### How to Reach Me
+#### How to reach me
 Feel free to connect via [E-Mail](mailto:dennismayeku@gmail.com).
