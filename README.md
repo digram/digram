@@ -1,5 +1,5 @@
 ### Introduction
-I am a seasoned Software Engineer with 7 years of experience based in Nairobi, Kenya. My expertise lies in `System Design`, `Application Architecture`, `Programming`, `Server Management`, and `Cloud Computing`. I specialize in developing robust solutions for diverse sectors, including `E-Commerce`, `Financial Markets`, `Digital Marketplaces`, and `Education`. I am deeply passionate about creating user-centric systems that leave a lasting impression.
+I am a seasoned Software Engineer with 7 years of experience based in Nairobi, Kenya. My expertise lies in `System Design`, `Application Architecture`, `Programming` and `Server Management`. I specialize in developing robust solutions for diverse sectors, including `E-Commerce`, `Financial Markets`, `Digital Marketplaces`, and `Education`. I am deeply passionate about creating user-centric systems that leave a lasting impression.
 
 I hold a BSc in Computer Science from [Maseno University](https://sci.maseno.ac.ke/home-computer-science), Kenya.
 
@@ -16,14 +16,13 @@ I hold a BSc in Computer Science from [Maseno University](https://sci.maseno.ac.
 - Learning & Education
 - Digital Marketplaces
 
-#### Current Endeavors
+#### Current Activities
 - Building `Bukua Platform`, an EdTech startup connecting all secondary schools in Kenya.
 - Learning entrepreneurship in Software Development.
-- Providing tech support to Topserve Limited, Botswana Stock Exchange, and Nairobi Securities Exchange. I have actively participated in developing systems for these organizations.
 - Open to collaboration on the creation of digital marketplace tools.
 
 #### Topics of Interest
-I am currently fascinated by Application Architecture, GraphQL, ElasticSearch, Caching, Laravel, NextJS, Application Optimization, Database Optimization, Entrepreneurship, Machine Learning, Server Security, and Startups.
+I am currently fascinated by GraphQL, ElasticSearch, Caching, Laravel, NextJS, Application Optimization, Database Optimization, Entrepreneurship, Machine Learning, Server Security, and Startups.
 
 #### Skill Set
 
@@ -34,15 +33,15 @@ I am currently fascinated by Application Architecture, GraphQL, ElasticSearch, C
 - React, NextJS, VueJS, Javascript, HTML, CSS, Tailwind CSS, Typescript, and Redux.
 
 ##### Backend
-- Languages: PHP, Laravel, Python, C#, Java.
+- Languages: PHP/Laravel, Python, NodeJS.
 - Storage: MySQL, MariaDB, PostgreSQL, Elasticsearch, Redis.
 - Application Architecture: Monolith and Modular.
 - Server: Linux and Shell Scripting.
 - Version Control: GitHub, Bitbucket, and GitLab.
 - DevOPS: Docker, Google Cloud Platform, and Amazon Web Services.
-- Communication Protocols: GraphQL, REST, and TCP/IP.
+- APIs: GraphQL, REST.
 
-#### What Sets Me Apart
+#### Fun Facts
 - A dedicated fan of Casio digital watches.
 - Early morning coder.
 - Thrives on attention to detail.
