@@ -26,7 +26,7 @@ I am currently fascinated by GraphQL, ElasticSearch, Caching, Laravel, NextJS, A
 
 #### Skill Set
 
-##### General
+##### General stack
 - Application Architecture: Monolith and Modular.
 - Server: Linux and Shell Scripting.
 - Version Control: GitHub, Bitbucket, and GitLab.
@@ -40,7 +40,7 @@ I am currently fascinated by GraphQL, ElasticSearch, Caching, Laravel, NextJS, A
 - Languages: PHP/Laravel, Python, NodeJS.
 - Storage: MySQL, MariaDB, PostgreSQL, Elasticsearch, Redis.
 
-##### Mobile
+##### Mobile stack
 - Flutter
 
 #### Fun facts
